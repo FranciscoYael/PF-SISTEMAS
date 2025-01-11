@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author edwin
+ * @author Francisco Yael, Raybel Antonio, Sui Som
  */
 public class Ventana_Crear_Torrent extends JFrame {
 
