@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author edwin
+ * @author Francisco, Sui som, Raybel
  */
 public class Peer {
 
